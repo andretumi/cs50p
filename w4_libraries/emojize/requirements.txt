@@ -1,0 +1,2 @@
+Required pip module:
+pip install emoji
